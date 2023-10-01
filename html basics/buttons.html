@@ -10,10 +10,19 @@
 <body>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-target="_blank">
-<button style="font-size:20px; background-color:lightgreen;">click me</button>
+   target="_blank">
+    <button onclick="doSomething()"
+            style="font-size:20px; background-color:lightgreen;
+            color:grey; border-radius:20px"
+            title="NEVER GONNA">click me
+    </button>
 </a>
-
+<p id="greeting">hello</p>
+<script>
+    function doSomething(){
+    document.getElementById("greeting".innerHTML = "goodbye, honey!!"
+    }
+</script>
 
 </body>
 </html>
