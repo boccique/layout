@@ -1,0 +1,17 @@
+body{
+    margin: 100px
+}
+.box{
+    border: 3px solid;
+    font-size: 1.1em;
+    height: auto;
+    weight: auto;
+    margin: auto;
+}
+
+#box1{
+    background-color: #9f3939;
+}
+#box2{
+    background-color: #1c7979;
+}
