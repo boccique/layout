@@ -1,0 +1,21 @@
+#container{
+    border: 2px solid;
+}
+
+/*#container p{*/
+/*    background-color: #8bef59;*/
+
+/*}*/
+/*#container ~ p{*/
+/*    background-color: #8bef59;*/
+
+/*}*/
+/*#container > p{*/
+/*    background-color: #8bef59;*/
+
+/*}*/
+
+#container + p{
+    background-color: #8bef59;
+
+}
