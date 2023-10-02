@@ -1,0 +1,57 @@
+/*#box1{*/
+/*    box-shadow: 3px 3px 5px red, -2px -3px 5px red;*/
+/*    border-radius: 100px;*/
+/*    width:200px;*/
+/*    height:200px;*/
+/*    background-color: #9f3939;*/
+/*    position: relative;*/
+/*    top: 100px;*/
+/*    left: 100px;*/
+/*}*/
+
+#box1{
+    box-shadow: 4px 4px 4px red, -4px -4px 4px red;
+    border-radius: 100px;
+    width:10px;
+    height:10px;
+    background-color: #9f3939;
+    position: fixed;
+/*     change the place using left, right, top and bottom*/
+    right: 10px;
+    bottom: 10px;
+
+}
+#box2{
+    box-shadow: 4px 4px 4px #67a9cb, -4px -4px 4px #67a9cb;
+    border-radius: 100px;
+    width:10px;
+    height:10px;
+    background-color: #1d5891;
+    position: absolute; /* to put in*/
+    right: 10px;
+    bottom: 10px;
+}
+/*#box1{*/
+/*    box-shadow: 4px 4px 4px red, -4px -4px 4px red;*/
+/*    border-radius: 100px;*/
+/*    width:10px;*/
+/*    height:10px;*/
+/*    background-color: #9f3939;*/
+/*    position: sticky;*/
+/*    *//* change the place using left, right, top and bottom*/
+/*    right: 10px;*/
+/*    bottom: 10px;*/
+
+/*}*/
+/*        #box1{*/
+/*    box-shadow: 4px 4px 4px red, -4px -4px 4px red;*/
+/*    border-radius: 100px;*/
+/*    width:10px;*/
+/*    height:10px;*/
+/*    background-color: #9f3939;*/
+/*    position: static;*/
+/*    *//* change the place using left, right, top and bottom*/
+/*    right: 10px;*/
+/*    bottom: 10px;*/
+
+/*}*/
