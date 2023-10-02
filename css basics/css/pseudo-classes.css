@@ -1,0 +1,35 @@
+a:link{
+    color: #a8853d;
+}
+
+button:hover{
+    font-size:1.2em;
+    background-color: aliceblue;
+    color:cornflowerblue;
+    border: 20px;
+}
+button:active{
+    font-size:1.2em;
+    background-color: orangered;
+
+}
+a:visited{
+    background-color: orangered;
+}
+
+li:hover{
+    background-color: hsl(60, 100%, 72%);
+}
+li:nth-child(even){
+    background-color: yellowgreen;
+}
+
+#greeting p{
+    background-color:#245a83;
+    padding: 10px;
+    display: none;
+
+}
+#greeting:hover p{
+    display: block;
+}
