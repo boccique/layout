@@ -1,0 +1,9 @@
+body{
+    background-image: url(/layout/images/lookingatthesky.jpg);
+    color: #885858;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size:cover;
+    font-size: 2em;
+}
