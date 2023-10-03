@@ -1,0 +1,14 @@
+@font-face{
+    src: url( here_the_url_of_your_font);
+    font-family: Name of your font
+}
+
+h1{
+    font-family: verdana, arial;
+}
+p{
+    font-family: verdana, arial;
+    font-size: 1em;
+    font-style: none, italic;
+    font-weight: none;
+}
