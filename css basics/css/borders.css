@@ -1,0 +1,20 @@
+h1{
+    border-style: dotted;
+    /* double, groove, ridge, inset, outset, none*/
+    border-width: 1px;
+    border-color: #aa1baa;
+    border-radius: 20px;
+
+    /* also you could write it like this*/
+    border: 1px dotted #aa1baa;
+    border-radius: 20px:
+}
+p{
+    border-bottom: 3px groove #e01f1f;
+    border-top: 3px ridge yellow;
+    border-left: 3px solid green;
+    border-right: 3px double blue;
+
+    border-radius: 8px;
+
+}
