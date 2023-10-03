@@ -1,0 +1,15 @@
+h1{
+    text-shadow: 2px 2px 5px #e09a05, -2px -2px 5px #ea182a;
+    /* first number - horizontal*/
+}
+
+#box1{
+    width: 120px;
+    height: 120px;
+    background-color: #502327;
+    box-shadow: 4px 4px 10px, -4px -4px 10px;
+    border-radius: 10px
+}
+body{
+    background-color: #918686;
+}
